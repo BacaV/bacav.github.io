@@ -227,6 +227,7 @@ a{
     align-items: center;
     border-radius: 20px;
     max-width: 1400px;
+    cursor: pointer;
 }
 
 .faq-wrapper{
@@ -331,4 +332,10 @@ a{
     border-radius: 50%;
     filter: blur(100px);
     position: absolute;
+}
+
+.answer{
+    display: none;
+    padding: 30px;
+    font-size: 20px;
 }
