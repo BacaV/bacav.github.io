@@ -219,9 +219,6 @@ a{
     height: 90vh;
 }
 
-#home #faq #features #pricing #footer{
-    height: auto;
-}
 
 .faq{
     width: 100%;
