@@ -11,7 +11,8 @@ body{
 
 .container{
     width: 100%;
-    max-width: 1400px;
+    max-width: 1440px;
+    padding: 0 20px;
     margin: 0 auto;
 }
 
@@ -365,6 +366,10 @@ a{
 
 
 @media screen and (max-width: 1024px) {
+
+    .line-decoration{
+        height: 500px;
+    }
    
 
     .nav-list {
